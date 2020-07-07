@@ -1,0 +1,78 @@
+#correctSquare {
+  position: absolute;
+  left: 33.33vw;
+  top: 5.555vw;
+}
+
+button {
+  width: 5.555vw;
+  height: 5.555vw;
+}
+
+button>* {
+  pointer-events: none;
+}
+
+.square * {
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+
+.square .AtomicNumber {
+  font-size: 0.85vw;
+  top: 10%;
+  left: 50%;
+}
+
+.square .Symbol {
+  font-size: 2vw;
+  top: 40%;
+  left: 50%;
+}
+
+.square .Element {
+  font-size: .75vw;
+  top: 70%;
+  left: 50%;
+}
+
+.square .AtomicMass {
+  font-size: 0.6vw;
+  top: 90%;
+  left: 50%;
+}
+
+#scoreContainers {
+  display: inline-block;
+  position: absolute;
+  left: 49.995vw;
+  top: 5.555vw;
+}
+
+.scoreContainer {
+  position: relative;
+  display: inline-block;
+  border-radius: 0.5vw;
+  width: 5vw;
+  height: 4vw;
+  text-align: center;
+}
+
+.scoreContainer .score {
+  position: absolute;
+  font-family: "Helvetica";
+  font-size: 25px;
+  color: white;
+  display: inline-block;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#correctScoreContainer {
+  background-color: LightGreen;
+}
+
+#incorrectScoreContainer {
+  background-color: LightCoral;
+}
