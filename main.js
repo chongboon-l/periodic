@@ -100,7 +100,6 @@ function main() {
           square.style.top =  8*size + size/3 + 'vw';
         }
       }
-      square.className = 'square'
       square.setAttribute('AtomicNumber',entry.AtomicNumber);
       square.id = entry.Element;
       document.getElementById('table').appendChild(square);

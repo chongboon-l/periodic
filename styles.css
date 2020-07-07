@@ -13,33 +13,37 @@ button>* {
   pointer-events: none;
 }
 
-.square * {
+button * {
   position: absolute;
   transform: translate(-50%, -50%);
 }
 
-.square .AtomicNumber {
+button .AtomicNumber {
   font-size: 0.85vw;
   top: 10%;
   left: 50%;
 }
 
-.square .Symbol {
+button .Symbol {
   font-size: 2vw;
   top: 40%;
   left: 50%;
 }
 
-.square .Element {
+button .Element {
   font-size: .75vw;
   top: 70%;
   left: 50%;
 }
 
-.square .AtomicMass {
-  font-size: 0.6vw;
+button .AtomicMass {
+  font-size: 0.75vw;
   top: 90%;
   left: 50%;
+}
+
+#correctSquare {
+  transform: scale(2);
 }
 
 #scoreContainers {
