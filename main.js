@@ -48,6 +48,9 @@ function handleClick(event){
       correctScore ++;
       for(i = 0; totalOptions[i]!=correctAtomicNumber; i++){}
       totalOptions.splice(i,1);
+      if(totalOptions.length < numberOfOptions){
+        numberOfOptions--;
+      }
       generateGame();
     } else{
       button.style.backgroundColor = 'LightCoral'
