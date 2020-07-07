@@ -64,7 +64,7 @@ button .AtomicMass {
 .scoreContainer .score {
   position: absolute;
   font-family: "Helvetica";
-  font-size: 45px;
+  font-size: 3vw;
   color: white;
   display: inline-block;
   top: 50%;
