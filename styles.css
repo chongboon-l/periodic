@@ -57,20 +57,20 @@ button .AtomicMass {
   position: relative;
   display: inline-block;
   border-radius: 0.5vw;
-  width: 5vw;
-  height: 4vw;
-  text-align: center;
+  width: 5.555vw;
+  height: 5.555vw;
 }
 
 .scoreContainer .score {
   position: absolute;
   font-family: "Helvetica";
-  font-size: 25px;
+  font-size: 45px;
   color: white;
   display: inline-block;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  text-shadow: 1px 1px 1px #000000;
 }
 
 #correctScoreContainer {
