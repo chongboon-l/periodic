@@ -5,7 +5,14 @@
    "Symbol": "H",
    "AtomicMass": 1.007,
    "Period": 1,
-   "Group": 1
+   "Group": 1,
+   "Phase": "gas",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Nonmetal"
  },
  {
    "AtomicNumber": 2,
@@ -13,7 +20,14 @@
    "Symbol": "He",
    "AtomicMass": 4.002,
    "Period": 1,
-   "Group": 18
+   "Group": 18,
+   "Phase": "gas",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Noble Gas"
  },
  {
    "AtomicNumber": 3,
@@ -21,7 +35,14 @@
    "Symbol": "Li",
    "AtomicMass": 6.941,
    "Period": 2,
-   "Group": 1
+   "Group": 1,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkali Metal"
  },
  {
    "AtomicNumber": 4,
@@ -29,7 +50,14 @@
    "Symbol": "Be",
    "AtomicMass": 9.012,
    "Period": 2,
-   "Group": 2
+   "Group": 2,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkaline Earth Metal"
  },
  {
    "AtomicNumber": 5,
@@ -37,7 +65,14 @@
    "Symbol": "B",
    "AtomicMass": 10.811,
    "Period": 2,
-   "Group": 13
+   "Group": 13,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "",
+   "Metalloid": "yes",
+   "Type": "Metalloid"
  },
  {
    "AtomicNumber": 6,
@@ -45,7 +80,14 @@
    "Symbol": "C",
    "AtomicMass": 12.011,
    "Period": 2,
-   "Group": 14
+   "Group": 14,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Nonmetal"
  },
  {
    "AtomicNumber": 7,
@@ -53,7 +95,14 @@
    "Symbol": "N",
    "AtomicMass": 14.007,
    "Period": 2,
-   "Group": 15
+   "Group": 15,
+   "Phase": "gas",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Nonmetal"
  },
  {
    "AtomicNumber": 8,
@@ -61,7 +110,14 @@
    "Symbol": "O",
    "AtomicMass": 15.999,
    "Period": 2,
-   "Group": 16
+   "Group": 16,
+   "Phase": "gas",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Nonmetal"
  },
  {
    "AtomicNumber": 9,
@@ -69,7 +125,14 @@
    "Symbol": "F",
    "AtomicMass": 18.998,
    "Period": 2,
-   "Group": 17
+   "Group": 17,
+   "Phase": "gas",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Halogen"
  },
  {
    "AtomicNumber": 10,
@@ -77,7 +140,14 @@
    "Symbol": "Ne",
    "AtomicMass": 20.18,
    "Period": 2,
-   "Group": 18
+   "Group": 18,
+   "Phase": "gas",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Noble Gas"
  },
  {
    "AtomicNumber": 11,
@@ -85,7 +155,14 @@
    "Symbol": "Na",
    "AtomicMass": 22.99,
    "Period": 3,
-   "Group": 1
+   "Group": 1,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkali Metal"
  },
  {
    "AtomicNumber": 12,
@@ -93,7 +170,14 @@
    "Symbol": "Mg",
    "AtomicMass": 24.305,
    "Period": 3,
-   "Group": 2
+   "Group": 2,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkaline Earth Metal"
  },
  {
    "AtomicNumber": 13,
@@ -101,7 +185,14 @@
    "Symbol": "Al",
    "AtomicMass": 26.982,
    "Period": 3,
-   "Group": 13
+   "Group": 13,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Metal"
  },
  {
    "AtomicNumber": 14,
@@ -109,7 +200,14 @@
    "Symbol": "Si",
    "AtomicMass": 28.086,
    "Period": 3,
-   "Group": 14
+   "Group": 14,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "",
+   "Metalloid": "yes",
+   "Type": "Metalloid"
  },
  {
    "AtomicNumber": 15,
@@ -117,7 +215,14 @@
    "Symbol": "P",
    "AtomicMass": 30.974,
    "Period": 3,
-   "Group": 15
+   "Group": 15,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Nonmetal"
  },
  {
    "AtomicNumber": 16,
@@ -125,7 +230,14 @@
    "Symbol": "S",
    "AtomicMass": 32.065,
    "Period": 3,
-   "Group": 16
+   "Group": 16,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Nonmetal"
  },
  {
    "AtomicNumber": 17,
@@ -133,7 +245,14 @@
    "Symbol": "Cl",
    "AtomicMass": 35.453,
    "Period": 3,
-   "Group": 17
+   "Group": 17,
+   "Phase": "gas",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Halogen"
  },
  {
    "AtomicNumber": 18,
@@ -141,7 +260,14 @@
    "Symbol": "Ar",
    "AtomicMass": 39.948,
    "Period": 3,
-   "Group": 18
+   "Group": 18,
+   "Phase": "gas",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Noble Gas"
  },
  {
    "AtomicNumber": 19,
@@ -149,7 +275,14 @@
    "Symbol": "K",
    "AtomicMass": 39.098,
    "Period": 4,
-   "Group": 1
+   "Group": 1,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkali Metal"
  },
  {
    "AtomicNumber": 20,
@@ -157,7 +290,14 @@
    "Symbol": "Ca",
    "AtomicMass": 40.078,
    "Period": 4,
-   "Group": 2
+   "Group": 2,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkaline Earth Metal"
  },
  {
    "AtomicNumber": 21,
@@ -165,7 +305,14 @@
    "Symbol": "Sc",
    "AtomicMass": 44.956,
    "Period": 4,
-   "Group": 3
+   "Group": 3,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 22,
@@ -173,7 +320,14 @@
    "Symbol": "Ti",
    "AtomicMass": 47.867,
    "Period": 4,
-   "Group": 4
+   "Group": 4,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 23,
@@ -181,7 +335,14 @@
    "Symbol": "V",
    "AtomicMass": 50.942,
    "Period": 4,
-   "Group": 5
+   "Group": 5,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 24,
@@ -189,7 +350,14 @@
    "Symbol": "Cr",
    "AtomicMass": 51.996,
    "Period": 4,
-   "Group": 6
+   "Group": 6,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 25,
@@ -197,7 +365,14 @@
    "Symbol": "Mn",
    "AtomicMass": 54.938,
    "Period": 4,
-   "Group": 7
+   "Group": 7,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 26,
@@ -205,7 +380,14 @@
    "Symbol": "Fe",
    "AtomicMass": 55.845,
    "Period": 4,
-   "Group": 8
+   "Group": 8,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 27,
@@ -213,7 +395,14 @@
    "Symbol": "Co",
    "AtomicMass": 58.933,
    "Period": 4,
-   "Group": 9
+   "Group": 9,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 28,
@@ -221,7 +410,14 @@
    "Symbol": "Ni",
    "AtomicMass": 58.693,
    "Period": 4,
-   "Group": 10
+   "Group": 10,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 29,
@@ -229,7 +425,14 @@
    "Symbol": "Cu",
    "AtomicMass": 63.546,
    "Period": 4,
-   "Group": 11
+   "Group": 11,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 30,
@@ -237,7 +440,14 @@
    "Symbol": "Zn",
    "AtomicMass": 65.38,
    "Period": 4,
-   "Group": 12
+   "Group": 12,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 31,
@@ -245,7 +455,14 @@
    "Symbol": "Ga",
    "AtomicMass": 69.723,
    "Period": 4,
-   "Group": 13
+   "Group": 13,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Metal"
  },
  {
    "AtomicNumber": 32,
@@ -253,7 +470,14 @@
    "Symbol": "Ge",
    "AtomicMass": 72.64,
    "Period": 4,
-   "Group": 14
+   "Group": 14,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "",
+   "Metalloid": "yes",
+   "Type": "Metalloid"
  },
  {
    "AtomicNumber": 33,
@@ -261,7 +485,14 @@
    "Symbol": "As",
    "AtomicMass": 74.922,
    "Period": 4,
-   "Group": 15
+   "Group": 15,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "",
+   "Metalloid": "yes",
+   "Type": "Metalloid"
  },
  {
    "AtomicNumber": 34,
@@ -269,7 +500,14 @@
    "Symbol": "Se",
    "AtomicMass": 78.96,
    "Period": 4,
-   "Group": 16
+   "Group": 16,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Nonmetal"
  },
  {
    "AtomicNumber": 35,
@@ -277,7 +515,14 @@
    "Symbol": "Br",
    "AtomicMass": 79.904,
    "Period": 4,
-   "Group": 17
+   "Group": 17,
+   "Phase": "liq",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Halogen"
  },
  {
    "AtomicNumber": 36,
@@ -285,7 +530,14 @@
    "Symbol": "Kr",
    "AtomicMass": 83.798,
    "Period": 4,
-   "Group": 18
+   "Group": 18,
+   "Phase": "gas",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Noble Gas"
  },
  {
    "AtomicNumber": 37,
@@ -293,7 +545,14 @@
    "Symbol": "Rb",
    "AtomicMass": 85.468,
    "Period": 5,
-   "Group": 1
+   "Group": 1,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkali Metal"
  },
  {
    "AtomicNumber": 38,
@@ -301,7 +560,14 @@
    "Symbol": "Sr",
    "AtomicMass": 87.62,
    "Period": 5,
-   "Group": 2
+   "Group": 2,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkaline Earth Metal"
  },
  {
    "AtomicNumber": 39,
@@ -309,7 +575,14 @@
    "Symbol": "Y",
    "AtomicMass": 88.906,
    "Period": 5,
-   "Group": 3
+   "Group": 3,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 40,
@@ -317,7 +590,14 @@
    "Symbol": "Zr",
    "AtomicMass": 91.224,
    "Period": 5,
-   "Group": 4
+   "Group": 4,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 41,
@@ -325,7 +605,14 @@
    "Symbol": "Nb",
    "AtomicMass": 92.906,
    "Period": 5,
-   "Group": 5
+   "Group": 5,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 42,
@@ -333,7 +620,14 @@
    "Symbol": "Mo",
    "AtomicMass": 95.96,
    "Period": 5,
-   "Group": 6
+   "Group": 6,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 43,
@@ -341,7 +635,14 @@
    "Symbol": "Tc",
    "AtomicMass": 98,
    "Period": 5,
-   "Group": 7
+   "Group": 7,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 44,
@@ -349,7 +650,14 @@
    "Symbol": "Ru",
    "AtomicMass": 101.07,
    "Period": 5,
-   "Group": 8
+   "Group": 8,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 45,
@@ -357,7 +665,14 @@
    "Symbol": "Rh",
    "AtomicMass": 102.906,
    "Period": 5,
-   "Group": 9
+   "Group": 9,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 46,
@@ -365,7 +680,14 @@
    "Symbol": "Pd",
    "AtomicMass": 106.42,
    "Period": 5,
-   "Group": 10
+   "Group": 10,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 47,
@@ -373,7 +695,14 @@
    "Symbol": "Ag",
    "AtomicMass": 107.868,
    "Period": 5,
-   "Group": 11
+   "Group": 11,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 48,
@@ -381,7 +710,14 @@
    "Symbol": "Cd",
    "AtomicMass": 112.411,
    "Period": 5,
-   "Group": 12
+   "Group": 12,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 49,
@@ -389,7 +725,14 @@
    "Symbol": "In",
    "AtomicMass": 114.818,
    "Period": 5,
-   "Group": 13
+   "Group": 13,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Metal"
  },
  {
    "AtomicNumber": 50,
@@ -397,7 +740,14 @@
    "Symbol": "Sn",
    "AtomicMass": 118.71,
    "Period": 5,
-   "Group": 14
+   "Group": 14,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Metal"
  },
  {
    "AtomicNumber": 51,
@@ -405,7 +755,14 @@
    "Symbol": "Sb",
    "AtomicMass": 121.76,
    "Period": 5,
-   "Group": 15
+   "Group": 15,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "",
+   "Metalloid": "yes",
+   "Type": "Metalloid"
  },
  {
    "AtomicNumber": 52,
@@ -413,7 +770,14 @@
    "Symbol": "Te",
    "AtomicMass": 127.6,
    "Period": 5,
-   "Group": 16
+   "Group": 16,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "",
+   "Metalloid": "yes",
+   "Type": "Metalloid"
  },
  {
    "AtomicNumber": 53,
@@ -421,7 +785,14 @@
    "Symbol": "I",
    "AtomicMass": 126.904,
    "Period": 5,
-   "Group": 17
+   "Group": 17,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Halogen"
  },
  {
    "AtomicNumber": 54,
@@ -429,7 +800,14 @@
    "Symbol": "Xe",
    "AtomicMass": 131.293,
    "Period": 5,
-   "Group": 18
+   "Group": 18,
+   "Phase": "gas",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Noble Gas"
  },
  {
    "AtomicNumber": 55,
@@ -437,7 +815,14 @@
    "Symbol": "Cs",
    "AtomicMass": 132.905,
    "Period": 6,
-   "Group": 1
+   "Group": 1,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkali Metal"
  },
  {
    "AtomicNumber": 56,
@@ -445,7 +830,14 @@
    "Symbol": "Ba",
    "AtomicMass": 137.327,
    "Period": 6,
-   "Group": 2
+   "Group": 2,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkaline Earth Metal"
  },
  {
    "AtomicNumber": 57,
@@ -453,7 +845,14 @@
    "Symbol": "La",
    "AtomicMass": 138.905,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 58,
@@ -461,7 +860,14 @@
    "Symbol": "Ce",
    "AtomicMass": 140.116,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 59,
@@ -469,7 +875,14 @@
    "Symbol": "Pr",
    "AtomicMass": 140.908,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 60,
@@ -477,7 +890,14 @@
    "Symbol": "Nd",
    "AtomicMass": 144.242,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 61,
@@ -485,7 +905,14 @@
    "Symbol": "Pm",
    "AtomicMass": 145,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 62,
@@ -493,7 +920,14 @@
    "Symbol": "Sm",
    "AtomicMass": 150.36,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 63,
@@ -501,7 +935,14 @@
    "Symbol": "Eu",
    "AtomicMass": 151.964,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 64,
@@ -509,7 +950,14 @@
    "Symbol": "Gd",
    "AtomicMass": 157.25,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 65,
@@ -517,7 +965,14 @@
    "Symbol": "Tb",
    "AtomicMass": 158.925,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 66,
@@ -525,7 +980,14 @@
    "Symbol": "Dy",
    "AtomicMass": 162.5,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 67,
@@ -533,7 +995,14 @@
    "Symbol": "Ho",
    "AtomicMass": 164.93,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 68,
@@ -541,7 +1010,14 @@
    "Symbol": "Er",
    "AtomicMass": 167.259,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 69,
@@ -549,7 +1025,14 @@
    "Symbol": "Tm",
    "AtomicMass": 168.934,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 70,
@@ -557,7 +1040,14 @@
    "Symbol": "Yb",
    "AtomicMass": 173.054,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 71,
@@ -565,7 +1055,14 @@
    "Symbol": "Lu",
    "AtomicMass": 174.967,
    "Period": 6,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Lanthanide"
  },
  {
    "AtomicNumber": 72,
@@ -573,7 +1070,14 @@
    "Symbol": "Hf",
    "AtomicMass": 178.49,
    "Period": 6,
-   "Group": 4
+   "Group": 4,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 73,
@@ -581,7 +1085,14 @@
    "Symbol": "Ta",
    "AtomicMass": 180.948,
    "Period": 6,
-   "Group": 5
+   "Group": 5,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 74,
@@ -589,7 +1100,14 @@
    "Symbol": "W",
    "AtomicMass": 183.84,
    "Period": 6,
-   "Group": 6
+   "Group": 6,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 75,
@@ -597,7 +1115,14 @@
    "Symbol": "Re",
    "AtomicMass": 186.207,
    "Period": 6,
-   "Group": 7
+   "Group": 7,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 76,
@@ -605,7 +1130,14 @@
    "Symbol": "Os",
    "AtomicMass": 190.23,
    "Period": 6,
-   "Group": 8
+   "Group": 8,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 77,
@@ -613,7 +1145,14 @@
    "Symbol": "Ir",
    "AtomicMass": 192.217,
    "Period": 6,
-   "Group": 9
+   "Group": 9,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 78,
@@ -621,7 +1160,14 @@
    "Symbol": "Pt",
    "AtomicMass": 195.084,
    "Period": 6,
-   "Group": 10
+   "Group": 10,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 79,
@@ -629,7 +1175,14 @@
    "Symbol": "Au",
    "AtomicMass": 196.967,
    "Period": 6,
-   "Group": 11
+   "Group": 11,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 80,
@@ -637,7 +1190,14 @@
    "Symbol": "Hg",
    "AtomicMass": 200.59,
    "Period": 6,
-   "Group": 12
+   "Group": 12,
+   "Phase": "liq",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transition Metal"
  },
  {
    "AtomicNumber": 81,
@@ -645,7 +1205,14 @@
    "Symbol": "Tl",
    "AtomicMass": 204.383,
    "Period": 6,
-   "Group": 13
+   "Group": 13,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Metal"
  },
  {
    "AtomicNumber": 82,
@@ -653,7 +1220,14 @@
    "Symbol": "Pb",
    "AtomicMass": 207.2,
    "Period": 6,
-   "Group": 14
+   "Group": 14,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Metal"
  },
  {
    "AtomicNumber": 83,
@@ -661,7 +1235,14 @@
    "Symbol": "Bi",
    "AtomicMass": 208.98,
    "Period": 6,
-   "Group": 15
+   "Group": 15,
+   "Phase": "solid",
+   "Radioactive": "",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Metal"
  },
  {
    "AtomicNumber": 84,
@@ -669,7 +1250,14 @@
    "Symbol": "Po",
    "AtomicMass": 210,
    "Period": 6,
-   "Group": 16
+   "Group": 16,
+   "Phase": "solid",
+   "Radioactive": "yes",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "",
+   "Metalloid": "yes",
+   "Type": "Metalloid"
  },
  {
    "AtomicNumber": 85,
@@ -677,7 +1265,14 @@
    "Symbol": "At",
    "AtomicMass": 210,
    "Period": 6,
-   "Group": 17
+   "Group": 17,
+   "Phase": "solid",
+   "Radioactive": "yes",
+   "Natural": "yes",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Halogen"
  },
  {
    "AtomicNumber": 86,
@@ -685,7 +1280,14 @@
    "Symbol": "Rn",
    "AtomicMass": 222,
    "Period": 6,
-   "Group": 18
+   "Group": 18,
+   "Phase": "gas",
+   "Radioactive": "yes",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Noble Gas"
  },
  {
    "AtomicNumber": 87,
@@ -693,7 +1295,14 @@
    "Symbol": "Fr",
    "AtomicMass": 223,
    "Period": 7,
-   "Group": 1
+   "Group": 1,
+   "Phase": "solid",
+   "Radioactive": "yes",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkali Metal"
  },
  {
    "AtomicNumber": 88,
@@ -701,7 +1310,14 @@
    "Symbol": "Ra",
    "AtomicMass": 226,
    "Period": 7,
-   "Group": 2
+   "Group": 2,
+   "Phase": "solid",
+   "Radioactive": "yes",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Alkaline Earth Metal"
  },
  {
    "AtomicNumber": 89,
@@ -709,7 +1325,14 @@
    "Symbol": "Ac",
    "AtomicMass": 227,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "yes",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 90,
@@ -717,7 +1340,14 @@
    "Symbol": "Th",
    "AtomicMass": 232.038,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "yes",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 91,
@@ -725,7 +1355,14 @@
    "Symbol": "Pa",
    "AtomicMass": 231.036,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "yes",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 92,
@@ -733,7 +1370,14 @@
    "Symbol": "U",
    "AtomicMass": 238.029,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "solid",
+   "Radioactive": "yes",
+   "Natural": "yes",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 93,
@@ -741,7 +1385,14 @@
    "Symbol": "Np",
    "AtomicMass": 237,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 94,
@@ -749,7 +1400,14 @@
    "Symbol": "Pu",
    "AtomicMass": 244,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 95,
@@ -757,7 +1415,14 @@
    "Symbol": "Am",
    "AtomicMass": 243,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 96,
@@ -765,7 +1430,14 @@
    "Symbol": "Cm",
    "AtomicMass": 247,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 97,
@@ -773,7 +1445,14 @@
    "Symbol": "Bk",
    "AtomicMass": 247,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 98,
@@ -781,7 +1460,14 @@
    "Symbol": "Cf",
    "AtomicMass": 251,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 99,
@@ -789,7 +1475,14 @@
    "Symbol": "Es",
    "AtomicMass": 252,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 100,
@@ -797,7 +1490,14 @@
    "Symbol": "Fm",
    "AtomicMass": 257,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 101,
@@ -805,7 +1505,14 @@
    "Symbol": "Md",
    "AtomicMass": 258,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 102,
@@ -813,7 +1520,14 @@
    "Symbol": "No",
    "AtomicMass": 259,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 103,
@@ -821,7 +1535,14 @@
    "Symbol": "Lr",
    "AtomicMass": 262,
    "Period": 7,
-   "Group": null
+   "Group": null,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Actinide"
  },
  {
    "AtomicNumber": 104,
@@ -829,7 +1550,14 @@
    "Symbol": "Rf",
    "AtomicMass": 261,
    "Period": 7,
-   "Group": 4
+   "Group": 4,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 105,
@@ -837,7 +1565,14 @@
    "Symbol": "Db",
    "AtomicMass": 262,
    "Period": 7,
-   "Group": 5
+   "Group": 5,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 106,
@@ -845,7 +1580,14 @@
    "Symbol": "Sg",
    "AtomicMass": 266,
    "Period": 7,
-   "Group": 6
+   "Group": 6,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 107,
@@ -853,7 +1595,14 @@
    "Symbol": "Bh",
    "AtomicMass": 264,
    "Period": 7,
-   "Group": 7
+   "Group": 7,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 108,
@@ -861,7 +1610,14 @@
    "Symbol": "Hs",
    "AtomicMass": 267,
    "Period": 7,
-   "Group": 8
+   "Group": 8,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 109,
@@ -869,7 +1625,14 @@
    "Symbol": "Mt",
    "AtomicMass": 268,
    "Period": 7,
-   "Group": 9
+   "Group": 9,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 110,
@@ -877,7 +1640,14 @@
    "Symbol": "Ds ",
    "AtomicMass": 271,
    "Period": 7,
-   "Group": 10
+   "Group": 10,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 111,
@@ -885,7 +1655,14 @@
    "Symbol": "Rg ",
    "AtomicMass": 272,
    "Period": 7,
-   "Group": 11
+   "Group": 11,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 112,
@@ -893,7 +1670,14 @@
    "Symbol": "Cn ",
    "AtomicMass": 285,
    "Period": 7,
-   "Group": 12
+   "Group": 12,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 113,
@@ -901,7 +1685,14 @@
    "Symbol": "Nh",
    "AtomicMass": 284,
    "Period": 7,
-   "Group": 13
+   "Group": 13,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 114,
@@ -909,7 +1700,14 @@
    "Symbol": "Fl",
    "AtomicMass": 289,
    "Period": 7,
-   "Group": 14
+   "Group": 14,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 115,
@@ -917,7 +1715,14 @@
    "Symbol": "Mc",
    "AtomicMass": 288,
    "Period": 7,
-   "Group": 15
+   "Group": 15,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 116,
@@ -925,7 +1730,14 @@
    "Symbol": "Lv",
    "AtomicMass": 292,
    "Period": 7,
-   "Group": 16
+   "Group": 16,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "yes",
+   "Nonmetal": "",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 117,
@@ -933,7 +1745,14 @@
    "Symbol": "Ts",
    "AtomicMass": 295,
    "Period": 7,
-   "Group": 17
+   "Group": 17,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Transactinide"
  },
  {
    "AtomicNumber": 118,
@@ -941,6 +1760,13 @@
    "Symbol": "Og",
    "AtomicMass": 294,
    "Period": 7,
-   "Group": 18
+   "Group": 18,
+   "Phase": "artificial",
+   "Radioactive": "yes",
+   "Natural": "",
+   "Metal": "",
+   "Nonmetal": "yes",
+   "Metalloid": "",
+   "Type": "Noble Gas"
  }
 ]
